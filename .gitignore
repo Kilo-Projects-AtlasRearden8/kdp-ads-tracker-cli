@@ -1,8 +1,12 @@
-__pycache__/
 *.py[cod]
+*.pyc
 *kdp_data.json
-.kdp_data.json
 .DS_Store
 .env
+.env.*
+.kdp_data.json
 .venv/
+__pycache__/
+dist/*.tmp
+node_modules/
 venv/

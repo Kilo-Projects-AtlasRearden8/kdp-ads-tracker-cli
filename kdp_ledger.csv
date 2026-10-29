@@ -1,0 +1,6 @@
+record_type,book,date,amount,units,royalties
+spend,The Massive AI Manual,2026-10-28,42.50,,
+sale,The Massive AI Manual,2026-10-28,,12,34.80
+
+summary,book,total_spend,total_units,total_royalties,profit
+summary,The Massive AI Manual,42.50,12,34.80,-7.70
