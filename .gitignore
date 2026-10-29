@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*kdp_data.json
+.kdp_data.json
+.DS_Store
+.env
+.venv/
+venv/
